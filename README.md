@@ -1,8 +1,26 @@
 # GSA_CRE
 This is the source code of the paper "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies"
 
-Paper link: https://arxiv.org/abs/2407.17719
+If you find the code useful, please give a star :)
 
-The code of GSA for the Ishigami test function is in code_sin.
+## Ref
 
-The code of GSA for the bearing case is in code_bearing.
+Chen, Shi-Shun and Xiao-Yang Li, and Wen-Rui Xie. "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies." Mathematics and Computers in Simulation (2025).
+
+## Highlights
+
+• Quantifying uncertainty magnitude is important in practical uncertainty reduction.
+
+• CRE-based measures are developed for handling highly-skewed distributions.
+
+• Numerical implementations are devised to estimate the proposed measure.
+
+• A case of uncertainty reduction considering uncertainty magnitude is introduced.
+
+• The proposed measure gives a different recommendation compared to the Sobol index.
+
+Paper link: https://www.sciencedirect.com/science/article/pii/S0378475425002253
+
+The folder "code_sin" contains the source code of the Ishigami test function, and the folder "code_bearing" contains the source code of the bearing case.
+
+In the folder, `cumu_res_entropy.m` is the calculation of CRE based on given data; `mutual_CRE2.m` is the proposed GSA measure of a single variable based on given data.
