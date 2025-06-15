@@ -5,7 +5,7 @@ If you find the code useful, please give a star :)
 
 ## Ref
 
-Chen, Shi-Shun and Xiao-Yang Li, and Wen-Rui Xie. "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies." Mathematics and Computers in Simulation (2025).
+Chen, Shi-Shun and Xiao-Yang Li. "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies." Mathematics and Computers in Simulation. 2026, 239: 263-281.
 
 ## Highlights
 
