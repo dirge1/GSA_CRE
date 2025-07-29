@@ -1,6 +1,8 @@
 # GSA_CRE
 This is the source code of the paper "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies"
 
+Paper link: https://www.sciencedirect.com/science/article/pii/S0378475425002253
+
 If you find the code useful, please give a star :)
 
 ## Ref
@@ -18,8 +20,6 @@ Chen, Shi-Shun and Xiao-Yang Li. "A new moment-independent uncertainty importanc
 • A case of uncertainty reduction considering uncertainty magnitude is introduced.
 
 • The proposed measure gives a different recommendation compared to the Sobol index.
-
-Paper link: https://www.sciencedirect.com/science/article/pii/S0378475425002253
 
 The folder "code_sin" contains the source code of the Ishigami test function, and the folder "code_bearing" contains the source code of the bearing case.
 
