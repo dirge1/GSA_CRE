@@ -1,6 +1,8 @@
 # GSA_CRE
 This is the source code of the paper "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies"
 
+PDF: https://dirge1.github.io/shishun_chen.github.io/papers/Chen2026_MATCOM_CRE.pdf
+
 Paper link: https://www.sciencedirect.com/science/article/pii/S0378475425002253
 
 If you find the code useful, please give a star :)
